@@ -1,2 +1,3 @@
 # JomCode Git Practice
-Update README
+I am learning Git and Github.
+
